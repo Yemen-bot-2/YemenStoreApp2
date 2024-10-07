@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">متجر اليمن</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="register">تسجيل</string>
+    <string name="home">الرئيسية</string>
+    <string name="product_details">تفاصيل المنتج</string>
+    <string name="shopping_cart">سلة التسوق</string>
+    <string name="checkout">إتمام الطلب</string>
+    <string name="settings">إعدادات</string>
+    <string name="promotions">عروض</string>
+    <string name="categories">فئات</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="welcome_message">مرحبا بك في متجر اليمن</string>
+    <string name="enter_email">أدخل بريدك الإلكتروني</string>
+    <string name="enter_password">أدخل كلمة المرور</string>
+</resources>
